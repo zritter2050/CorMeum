@@ -25,7 +25,7 @@ def run():
     st.title('Model for Heart Attack Prediction (RFM)')
     st.text('Author: Dr. Z. Ritter')
     st.text('Model accuracy = 0.836')
-    st.text('Highest 5 feature importances: rate of influence of item on prediction (scroll bar below)')
+    st.text('Highest 5 feature importances: rate of influence of an item on the prediction (scroll bar below)')
     st.text('chest pain (0.142), ST depression induced by exercise (0.117), maximun heart rate (0.116), thalassemia (0.115), cholesterol (0.090)')
     
     # show data frame feature importances sorted
