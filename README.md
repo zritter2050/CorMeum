@@ -1,4 +1,4 @@
 
 # CorMeum
 Risk Heart Attack Prediction
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/zritter2050/cormeum/main/hrfApp.py/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/zritter2050/cormeum/main/hrf.py/)
