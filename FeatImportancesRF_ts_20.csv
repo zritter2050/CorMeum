@@ -1,0 +1,14 @@
+featurename,featureindex,featureimportance
+cp,2,0.17
+oldpeak,9,0.1165
+thall,12,0.1128
+thalachh,7,0.1037
+chol,4,0.0828
+caa,11,0.0817
+trtbps,3,0.0768
+slp,10,0.0706
+age,0,0.068
+exng,8,0.0574
+sex,1,0.0291
+restecg,6,0.0226
+fbs,5,0.0078
