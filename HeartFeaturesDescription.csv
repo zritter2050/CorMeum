@@ -1,14 +1,14 @@
-,featurename,feature_description
-0,age,age in years
-1,sex,"sex, 0 = female, 1 = male"
-2,cp,"chest pain: 0:typical angina, 1 = atypical angina, 2 = non-anginal pain, 3 = asymptomatic"
-3,trtbps,resting blood pressure (mm Hg on admission to the hospital)
-4,chol,cholesterol in mg/dl
-5,fbs,"fasting blood sugar (> 120 mg/dl, 1 = true, 0 = false)"
-6,restecg,"resting electrocardiographic measurement (0 = normal, 1 = having ST-T wave abnormality, 2 = showing probable or definite left ventricular hypertrophy by Estes' criteria)"
-7,thalachh,maximum heart rate achieved
-8,exng,exercise induced angina (1 = yes; 0 = no)
-9,oldpeak,ST depression induced by exercise relative to rest ('ST' relates to positions on the ECG plot)
-10,slp,"slope of the peak exercise ST segment (0 = upsloping, 1 = flat, 2 = downsloping"
-11,caa,number of major vessels (0-3)
-12,thall,"on thalassemia blood disorder (1 = normal, 2 = fixed defect, 3 = reversable defect)"
+featurename,feature_description
+age,age in years
+sex,"sex, 0 = female, 1 = male"
+cp,"chest pain: 0:typical angina, 1 = atypical angina, 2 = non-anginal pain, 3 = asymptomatic"
+trtbps,resting blood pressure (mm Hg on admission to the hospital)
+chol,cholesterol in mg/dl
+fbs,"fasting blood sugar (> 120 mg/dl, 1 = true, 0 = false)"
+restecg,"resting electrocardiographic measurement (0 = normal, 1 = having ST-T wave abnormality, 2 = showing probable or definite left ventricular hypertrophy by Estes' criteria)"
+thalachh,maximum heart rate achieved
+exng,exercise induced angina (1 = yes; 0 = no)
+oldpeak,ST depression induced by exercise relative to rest ('ST' relates to positions on the ECG plot)
+slp,"slope of the peak exercise ST segment (0 = upsloping, 1 = flat, 2 = downsloping"
+caa,number of major vessels (0-3)
+thall,"on thalassemia blood disorder (1 = normal, 2 = fixed defect, 3 = reversable defect)"
