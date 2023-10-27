@@ -60,7 +60,7 @@ def run():
     prediction=""
     if st.button("Predict"):
         prediction=rf_prediction(age, sex, cp, trtbps, chol, fbs, restecg, thalachh, exng, oldpeak, slp, caa, thall)
-    st.success("Prediction: if your risk score is [0], it means you are not at risk of having a heart attack, and that's good news!, if it is [1] consult a specialist. Your risk value is: {}".format( prediction ))  
+    st.success("Prediction: if your risk score is [0], it means you are not at risk of having a heart attack, and that's good news!, if it is [1] consult a specialist. Your risk value: {}".format( prediction ))  
 
 
 # %%
