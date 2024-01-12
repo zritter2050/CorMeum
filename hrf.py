@@ -104,6 +104,7 @@ def run():
          'thalachh', 'exng', 'oldpeak', 'slp', 'caa', 'thall']
         st.info('shap values for class  1, thus being a risk of a heart attack')
         st.write(pd.DataFrame(data=shap_values[0][0].reshape(1,-1), columns=columns))
+        shap.initjs()
         st_shap(shap.force_plot(explainer.expected_value[1], shap_values[1], preds_pd))
 
 # %%
