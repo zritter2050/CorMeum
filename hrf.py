@@ -61,7 +61,7 @@ def run():
     
     age=st.text_input("enter age")
     sex=st.text_input("sex, 0 = female, 1 = male")
-    cp=st.text_input("chest pain: 0:typical angina, 1 = atypical angina, 2 = non-anginal pain, 3 = asymptomatic")
+    cp=st.text_input("chest pain (0 = typical angina, 1 = atypical angina, 2 = non-anginal pain, 3 = asymptomatic)")
     trtbps=st.text_input("resting blood pressure (mm Hg on admission to the hospital)")
     chol=st.text_input("cholesterol in mg/dl")
     fbs=st.text_input("fasting blood sugar (> 120 mg/dl, 1 = true, 0 = false)")
